@@ -1,5 +1,7 @@
 ## Two scripts that will let you hear your jello scream as you eat it. 
 
+[Watch demo](https://youtu.be/6gLrZYKcRQ8?si=yWEg8OmWXFgwBMn9)
+
 Materials needed:
 - Adafruit 12-Key Capacitive Touch Sensor Breakout - MPR121
 - Arduino
